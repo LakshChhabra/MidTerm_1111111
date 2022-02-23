@@ -26,6 +26,7 @@ public class StausUser
         this.status = status;
     }
     
+    @Override
     public String toString()
     {
         String s = "";
